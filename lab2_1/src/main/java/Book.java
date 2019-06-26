@@ -29,5 +29,9 @@ public class Book {
         this.price=price;
         this.publish_date=publish_date;
     }
+    public Book(){
+
+    }
 
 }
+
