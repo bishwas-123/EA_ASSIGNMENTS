@@ -19,6 +19,7 @@ public static List<Book> getAllBooks(EntityManager em){
         em.getTransaction().begin();
 
         java.util.Date date=new java.util.Date();
+
         Book b1=new Book("java Progeamming1", "1234", "Erich Gama",1200,date);
         em.persist(b1);
 
@@ -36,8 +37,6 @@ public static List<Book> getAllBooks(EntityManager em){
         em.getTransaction().begin();
 
         // retieve all books
-//        TypedQuery<Book> query = em.createQuery("from Book", Book.class);
-//        List<Book> bookList = query.getResultList();
        List<Book> bookList= getAllBooks(em);
         for (Book book : bookList) {
             System.out.println("Title="+ book.getTitle()+", ISBN="+book.getISBN()+", Author"+book.getAuthor()+
@@ -51,11 +50,10 @@ public static List<Book> getAllBooks(EntityManager em){
         em=emf.createEntityManager();
         em.getTransaction().begin();
         //retirieve all books
-//        TypedQuery<Book> query1 = em.createQuery("from Book", Book.class);
-//       List<Book> bookList1 = query1.getResultList();
         List<Book> bookList1=getAllBooks(em);
-        bookList1.get(0).setPrice(1800);
+
         bookList1.get(0).setTitle("C programming");
+        bookList1.get(0).setPrice(1800);
 
         em.remove(bookList1.get(1));
         em.getTransaction().commit();
