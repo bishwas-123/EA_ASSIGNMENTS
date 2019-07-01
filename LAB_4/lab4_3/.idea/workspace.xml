@@ -2,12 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d6cc14-e643-409b-8ed2-8335e66bfba2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lab6-JPQL/W2D3-JPQL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/AppCustomerInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/productType/BOOK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/productType/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/inheritance/productType/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/META-INF/Lab5-Inheritance.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/AppCustomerInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/OrderLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/productType/BOOK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/productType/CD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/inheritance/productType/DVD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/compositekey/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/compositekey/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/compositekey/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/compositekey/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/embeddable/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/embeddable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/embeddable/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/embeddable/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/joinedtable/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/joinedtable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/joinedtable/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/joinedtable/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/secondarytable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/secondarytable/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/singletable/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/singletable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/singletable/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/singletable/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/tableperconcrete/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/tableperconcrete/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labFourAssociation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/labFourAssociation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/course/AppCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/course/AppCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/AppCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/AppCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/OrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/OrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/java/without_inheritance/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/AppCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/AppCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/OrderLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/OrderLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab5-Inheritance/target/classes/without_inheritance/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/ExpectedOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/tableperconcrete/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/java/hibernate05/tableperconcrete/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson05/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/test.sql" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,7 +92,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/course/AppCourse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -81,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +209,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -178,24 +248,24 @@
       <updated>1561877482619</updated>
       <workItem from="1561877538380" duration="266000" />
       <workItem from="1561926344144" duration="6389000" />
+      <workItem from="1561960712004" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6655000" />
+    <option name="totallyTimeSpent" value="7199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Persistence" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Persistence" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -208,6 +278,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -223,6 +294,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="54" column="10" selection-start-line="9" selection-end-line="54" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -233,14 +311,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/course/AppCourse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="54" column="10" selection-start-line="9" selection-end-line="54" selection-end-column="10" />
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>

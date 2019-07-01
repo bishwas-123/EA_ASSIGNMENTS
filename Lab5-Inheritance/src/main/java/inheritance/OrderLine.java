@@ -1,9 +1,8 @@
-package without_inheritance;
-import javax.persistence.*;
-import java.util.ArrayList;
-import java.util.List;
+package inheritance;
 
-//@Entity
+import javax.persistence.*;
+
+@Entity
 public class OrderLine {
     @Id
     @GeneratedValue
@@ -12,7 +11,7 @@ public class OrderLine {
     @ManyToOne(cascade = CascadeType.ALL)
     private Product product;
 
-    OrderLine(int quantity,Product product){
+    OrderLine(int quantity, Product product){
         this.quantity=quantity;
         this.product=product;
     }

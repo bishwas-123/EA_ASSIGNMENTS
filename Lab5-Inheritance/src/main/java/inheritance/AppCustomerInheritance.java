@@ -1,10 +1,10 @@
-package without_inheritance;
+package inheritance;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-public class AppCustomer {
+public class AppCustomerInheritance {
     private static EntityManagerFactory emf;
     public static void main(String[] args) {
         emf= Persistence.createEntityManagerFactory("ea-db");

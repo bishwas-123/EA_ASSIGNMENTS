@@ -2,11 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83e7e146-c85d-4e27-a3b5-a9292b93f32b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/lab4_3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LAB_4/lab4_3/labFourAssociation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/lab4_3/labFourAssociation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_4/lab4_3/src/main/java/course/AppCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB_4/lab4_3/src/main/java/course/AppCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/without_inheritance/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/without_inheritance/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/without_inheritance/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/without_inheritance/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/without_inheritance/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/without_inheritance/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/without_inheritance/AppCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/without_inheritance/AppCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/without_inheritance/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/without_inheritance/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/without_inheritance/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/without_inheritance/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/without_inheritance/OrderLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/without_inheritance/OrderLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/without_inheritance/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/without_inheritance/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/ExpectedOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Airport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/java/edu/mum/cs544/model/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/import.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lab6-JPQL/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/java/hibernate06/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Learning_resource/ZIP/Lesson06/JPQLExamples/src/main/resources/test.sql" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,25 +50,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/AppCustomerInheritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Customer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/CD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,10 +76,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/DVD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,14 +88,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Order.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/BOOK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#405#416#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/OrderLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -71,11 +138,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#286#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,20 +150,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -119,11 +176,20 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/without_inheritance/Orderline.java" />
-        <option value="$PROJECT_DIR$/src/main/java/without_inheritance/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java" />
         <option value="$PROJECT_DIR$/src/main/java/without_inheritance/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java" />
         <option value="$PROJECT_DIR$/src/main/java/without_inheritance/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/without_inheritance/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/AppCustomerInheritance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/OrderLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/productType/BOOK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/productType/CD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/productType/DVD.java" />
       </list>
     </option>
   </component>
@@ -134,16 +200,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="788" />
@@ -154,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,6 +244,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab5-Inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab5-Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="productType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab5-Inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab5-Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="without_inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -207,18 +282,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/inheritance" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bishwas\Desktop\EA-WORKSPACE\assignments\EA_ASSIGNMENTS\Lab5-Inheritance\src\main\java\inheritance" />
       <recent name="C:\Users\Bishwas\Desktop\EA-WORKSPACE\assignments\EA_ASSIGNMENTS\Lab5-Inheritance\src\main\resources" />
     </key>
   </component>
@@ -234,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AppCustomerInheritance">
     <configuration name="AppCustomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="without_inheritance.AppCustomer" />
       <module name="Lab5-Inheritance" />
@@ -248,8 +324,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppCustomerInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.AppCustomerInheritance" />
+      <module name="Lab5-Inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppCustomerInheritance" />
         <item itemvalue="Application.AppCustomer" />
       </list>
     </recent_temporary>
@@ -265,29 +355,24 @@
       <option name="presentableId" value="Default" />
       <updated>1561926112241</updated>
       <workItem from="1561926127274" duration="7799000" />
+      <workItem from="1561960724340" duration="3562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7799000" />
+    <option name="totallyTimeSpent" value="11361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7986907" />
@@ -295,15 +380,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,36 +410,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+        <state relative-caret-position="255">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="257">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#286#295#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-start-column="2" selection-end-line="10" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -357,19 +437,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-start-column="2" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#405#416#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/AppCustomer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/OrderLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/without_inheritance/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <caret line="8" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/OrderLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/AppCustomerInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/BOOK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/productType/DVD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

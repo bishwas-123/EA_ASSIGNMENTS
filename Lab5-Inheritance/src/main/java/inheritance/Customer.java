@@ -1,4 +1,4 @@
-package without_inheritance;
+package inheritance;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
@@ -6,9 +6,10 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
-//@NoArgsConstructor
-//@AllArgsConstructor
-//@Entity
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
 public class Customer {
     @Id
     @GeneratedValue

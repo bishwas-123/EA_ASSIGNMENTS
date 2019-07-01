@@ -1,4 +1,4 @@
-package without_inheritance;
+package inheritance;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.Column;
@@ -6,8 +6,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
-//@NoArgsConstructor
-//@Entity
+@NoArgsConstructor
+@Entity
 public class Product {
     @Id
     @GeneratedValue
